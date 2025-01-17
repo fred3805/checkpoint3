@@ -29,6 +29,8 @@ Q.1.2.2
 
 Q.1.3.1   
 
+**Exercice 2 : Manipulations pratiques sur VM Linux **  
+
 **Partie 1 : Gestion des utilisateurs** 
 
 Q.2.1.1  
