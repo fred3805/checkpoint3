@@ -1,5 +1,5 @@
-**Partie 1 : Particularité des Unix**  
-
+Exercice 1 : ** Manipulations pratiques sur VM Windows**
+ 
 Q.1.1.1
 Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur.
 
