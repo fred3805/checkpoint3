@@ -28,3 +28,6 @@ Q.1.2.2
 **Partie 3 : Lecteurs réseaux**
 
 Q.1.3.1   
+
+![Mappage](https://github.com/user-attachments/assets/95ae23f5-c0a6-4b1d-b3b4-30382fec3c96)
+
