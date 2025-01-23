@@ -13,7 +13,9 @@ Q.1.1.3
 
 ![Capture d’écran 2025-01-17 100503](https://github.com/user-attachments/assets/acc6cdf2-9ce4-496c-b60f-fcef4212c1fa)  
 
-Q.1.1.4 
+Q.1.1.4  
+
+![1 1 4](https://github.com/user-attachments/assets/15017061-acd8-4509-a9fe-08b0c40a99fd)
 
 **Partie 2 : Restriction utilisateurs**  
 
