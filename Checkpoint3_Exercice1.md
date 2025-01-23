@@ -27,6 +27,10 @@ Q.1.2.2
 
 ![Capture d’écran 2025-01-17 103355](https://github.com/user-attachments/assets/677a145c-f67a-4fa4-bb4b-125fc3f9d12e)  
 
+Q.1.2.3  
+
+![q 1 2 3](https://github.com/user-attachments/assets/20dd330d-9586-4f0f-9199-2a5e51ab636c)  
+
 **Partie 3 : Lecteurs réseaux**
 
 Q.1.3.1   
