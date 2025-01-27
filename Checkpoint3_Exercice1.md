@@ -10,7 +10,7 @@ Q.1.1.2
 
 ![Capture d’écran 2025-01-17 100052](https://github.com/user-attachments/assets/474b3f79-7893-466f-917e-4a64b75924a7)  
 
-désactivation du compte Kelly.Rhameur  
+La flèche noir indique la désactivation du compte Kelly.Rhameur  
 ![Capture d’écran 2025-01-27 104527](https://github.com/user-attachments/assets/0f7222de-1ee2-4e53-92e7-682e5eb98b3a)
 
 
