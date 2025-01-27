@@ -1,13 +1,18 @@
 Exercice 1 : ** Manipulations pratiques sur VM Windows**
  
 Q.1.1.1
-Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur.
+Créer l'utilisateur Lionel Lemarchand avec les même attribut de société que Kelly Rhameur. 
 
+Clic droit sur "Kelly.Rhameur", puis copy.
 ![Capture d’écran 2025-01-17 095400](https://github.com/user-attachments/assets/96381fb7-4108-4454-9b65-7414d01a7cba)  
 
 Q.1.1.2 
 
 ![Capture d’écran 2025-01-17 100052](https://github.com/user-attachments/assets/474b3f79-7893-466f-917e-4a64b75924a7)  
+
+désactivation du compte Kelly.Rhameur  
+![Capture d’écran 2025-01-27 104527](https://github.com/user-attachments/assets/0f7222de-1ee2-4e53-92e7-682e5eb98b3a)
+
 
 Q.1.1.3
 
