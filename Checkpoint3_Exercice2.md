@@ -8,7 +8,7 @@ Q.2.1.1
 
 Q.2.1.2 
 
-Je preconise de redemarrer le system, de changer l'addresse ip  et le nom de la machine pour l'attribuer à l'utilisateur au demarrage  
+Je preconise juste un mot de passe robuste
 
 **Partie 2 : Configuration de SSH**  
 
@@ -34,10 +34,14 @@ Pour désactiver l'authentification par mot de passe, il se rendre dans "nano /e
 
 Q.2.3.1  
 
-![Q 2 3 1](https://github.com/user-attachments/assets/5a701525-546b-4dcc-b025-44791b48f7d3)  
+Commande "lsblk -f"  
+![Capture d’écran 2025-01-27 110706](https://github.com/user-attachments/assets/d73bb3d8-f0b4-4657-95ea-934911fe1e14)  
+Les fichiers "ext2" et "ext4" sont montés
+
 
 Q.2.3.2  
 
+La commande "lsblk" permet d'afficher la partition de disque  
 ![Q2 3 2](https://github.com/user-attachments/assets/8c029ae5-cf37-417c-ae68-e5d7ae9d76c7)  
 
 Q.2.3.3  
